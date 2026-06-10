@@ -14,3 +14,32 @@
 
   display: inline-block;
 }
+
+.question {
+  color: var(--content-brand);
+}
+
+.ajuda{
+  display: flex;
+  margin-top: 3.25rem;
+}
+
+.informacoes {
+  margin-left: .5rem;
+}
+
+div > span {
+  margin-top: .5rem;
+  color: var(--content-brand);
+}
+
+p {
+  width: calc(100% - 40%); 
+}
+
+
+h1 {
+  margin-top: 1rem;
+  width: calc(100% - 20%); 
+}
+
